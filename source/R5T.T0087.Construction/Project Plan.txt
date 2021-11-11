@@ -1,0 +1,3 @@
+R5T.T0087.Construction - Construction project for IConsole interface and implementations..
+
+GOALS:
